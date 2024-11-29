@@ -1,2 +1,1 @@
-# MusicLights
-MusicLights
+# light_show
